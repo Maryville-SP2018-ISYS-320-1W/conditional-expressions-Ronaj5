@@ -24,7 +24,6 @@ public class P3_Consecutive {
 		
 			System.out.printf( "a: %d, b: %d, c: %d -> ", num1, num2, num3);
 			
-
 			
 			System.out.print("Would you like to do it again (enter 'n' to quit)? ");
 			doItAgainResponse = console.next();
